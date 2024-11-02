@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
+## Array
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
