@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sandy1in/Leetocode-problems/tree/master/0011-container-with-most-water) |
 | [0238-product-of-array-except-self](https://github.com/sandy1in/Leetocode-problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sandy1in/Leetocode-problems/tree/master/1833-find-the-highest-altitude) |
 ## Greedy
@@ -41,4 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## Sliding Window
+|  |
+| ------- |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
