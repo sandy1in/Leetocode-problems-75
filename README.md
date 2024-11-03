@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sandy1in/Leetocode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
+| [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/sandy1in/Leetocode-problems/tree/master/2580-circular-sentence) |
 ## Two Pointers
 |  |
@@ -66,4 +67,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
+## Simulation
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
