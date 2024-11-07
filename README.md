@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/sandy1in/Leetocode-problems/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
+| [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/sandy1in/Leetocode-problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Linked List
 |  |
@@ -111,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3291-find-if-array-can-be-sorted) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
