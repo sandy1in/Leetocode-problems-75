@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sandy1in/Leetocode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -125,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [0171-excel-sheet-column-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0171-excel-sheet-column-number) |
 <!---LeetCode Topics End-->
