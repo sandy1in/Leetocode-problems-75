@@ -120,10 +120,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+| [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
 ## Union Find
 |  |
 | ------- |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0171-excel-sheet-column-number) |
+## Graph
+|  |
+| ------- |
+| [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
 <!---LeetCode Topics End-->
