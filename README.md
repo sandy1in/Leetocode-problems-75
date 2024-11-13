@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0171-excel-sheet-column-number) |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sandy1in/Leetocode-problems/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
