@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/sandy1in/Leetocode-problems/tree/master/0238-product-of-array-except-self) |
+| [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2048-build-array-from-permutation) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0036-valid-sudoku) |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
+| [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Linked List
 |  |
