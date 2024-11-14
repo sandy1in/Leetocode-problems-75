@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0125-valid-palindrome) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0020-valid-parentheses) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
