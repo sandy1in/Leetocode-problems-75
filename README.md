@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3291-find-if-array-can-be-sorted) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Greedy
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
 |  |
 | ------- |
