@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2716-prime-subtraction-operation) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1755-defuse-the-bomb](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1755-defuse-the-bomb) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## String Matching
 |  |
