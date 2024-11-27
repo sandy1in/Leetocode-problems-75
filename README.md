@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -250,4 +252,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
