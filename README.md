@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [2089-maximum-matrix-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2089-maximum-matrix-sum) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 ## Linked List
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -215,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
 |  |
@@ -235,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
 ## Rolling Hash
 |  |
@@ -261,4 +266,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
+## Shortest Path
+|  |
+| ------- |
+| [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
