@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2201-valid-arrangement-of-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
+| [2201-valid-arrangement-of-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Binary Search
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2201-valid-arrangement-of-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2201-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
