@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sandy1in/Leetocode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
+| [2232-adding-spaces-to-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 | [2580-circular-sentence](https://github.com/sandy1in/Leetocode-problems/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2232-adding-spaces-to-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2232-adding-spaces-to-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2232-adding-spaces-to-a-string) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [2048-build-array-from-permutation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2048-build-array-from-permutation) |
+| [2232-adding-spaces-to-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2232-adding-spaces-to-a-string) |
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
