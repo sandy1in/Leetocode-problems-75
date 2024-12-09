@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1755-defuse-the-bomb) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/sandy1in/Leetocode-problems/tree/master/1833-find-the-highest-altitude) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2048-build-array-from-permutation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2048-build-array-from-permutation) |
 | [2089-maximum-matrix-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2089-maximum-matrix-sum) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
