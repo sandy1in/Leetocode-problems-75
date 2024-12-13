@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2716-prime-subtraction-operation) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2428-equal-row-and-column-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Matrix
 |  |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
+| [2692-take-gifts-from-the-richest-pile](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 ## Rolling Hash
 |  |
