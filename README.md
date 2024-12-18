@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1755-defuse-the-bomb) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0020-valid-parentheses) |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2470-removing-stars-from-a-string) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
 |  |
