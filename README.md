@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [2089-maximum-matrix-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2089-maximum-matrix-sum) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2300-construct-string-with-repeat-limit) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/sandy1in/Leetocode-problems/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0020-valid-parentheses) |
+| [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -317,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Divide and Conquer
