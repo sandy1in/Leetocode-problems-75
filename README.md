@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
 | [2201-valid-arrangement-of-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2201-valid-arrangement-of-pairs) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0871-keys-and-rooms](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0871-keys-and-rooms) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Union Find
 |  |
@@ -352,11 +354,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Ordered Set
 |  |
 | ------- |
