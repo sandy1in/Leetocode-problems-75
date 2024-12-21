@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3291-find-if-array-can-be-sorted) |
 ## Depth-First Search
 |  |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
