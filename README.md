@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0383-ransom-note](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0383-ransom-note) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1319-unique-number-of-occurrences) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
