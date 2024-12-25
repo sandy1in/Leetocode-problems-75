@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sandy1in/Leetocode-problems/tree/master/0238-product-of-array-except-self) |
 | [0289-game-of-life](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0289-game-of-life) |
 | [0334-increasing-triplet-subsequence](https://github.com/sandy1in/Leetocode-problems/tree/master/0334-increasing-triplet-subsequence) |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0383-ransom-note) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1319-unique-number-of-occurrences) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0088-merge-sorted-array) |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0383-ransom-note) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2300-construct-string-with-repeat-limit) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2553-total-cost-to-hire-k-workers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2553-total-cost-to-hire-k-workers) |
@@ -338,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -373,4 +379,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2868-continuous-subarrays](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2868-continuous-subarrays) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
