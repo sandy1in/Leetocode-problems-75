@@ -376,12 +376,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Ordered Set
 |  |
@@ -395,4 +397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
