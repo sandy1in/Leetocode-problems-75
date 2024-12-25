@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0240-search-a-2d-matrix-ii) |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [2868-continuous-subarrays](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2868-continuous-subarrays) |
 ## Bucket Sort
 |  |
@@ -401,4 +405,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
