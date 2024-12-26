@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0162-find-peak-element) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0200-number-of-islands) |
 ## Math
 |  |
