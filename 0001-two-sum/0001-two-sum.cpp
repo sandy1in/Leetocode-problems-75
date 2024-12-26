@@ -1,19 +1,20 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) 
-    {
-        int temp;
-        for(int i=0;i<nums.size()-1;i++)
+        vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int>ans;                  
+        unordered_map<int,int>m;
+        
+        for(int i=0;i<nums.size();i++)    
         {
-            for(int j=i+1;j<nums.size();j++)
+            int val = target-nums[i];
+            if(m.find(val)!=m.end()) // in case the second element is found 
             {
-                temp=nums[i]+nums[j];
-            if(temp==target)
-            {
-                return {i,j};
+                ans.push_back(m.find(val)->second);
+                ans.push_back(i);
+                break;
             }
-            }
+            m.insert(pair<int,int>(nums[i],i)); // in case the above criteria is not satisfied I will keep inserting the element in the hashmap 
         }
-        return {};
+        return ans;
     }
 };
