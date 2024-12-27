@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0125-valid-palindrome) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -433,4 +435,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
