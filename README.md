@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0134-gas-station) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
 | [3291-find-if-array-can-be-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3291-find-if-array-can-be-sorted) |
 ## Depth-First Search
@@ -436,4 +438,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
