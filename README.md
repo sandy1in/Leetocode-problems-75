@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
+| [0475-heaters](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0475-heaters) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0417-pacific-atlantic-water-flow) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
+| [0475-heaters](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
+| [0475-heaters](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0475-heaters) |
 | [0780-max-chunks-to-make-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0780-max-chunks-to-make-sorted) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -324,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0240-search-a-2d-matrix-ii) |
+| [0475-heaters](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0475-heaters) |
 | [0493-reverse-pairs](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0493-reverse-pairs) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0907-koko-eating-bananas) |
