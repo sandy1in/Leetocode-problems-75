@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0135-candy) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0347-top-k-frequent-elements) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -429,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -449,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
