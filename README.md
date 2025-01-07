@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sandy1in/Leetocode-problems/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/sandy1in/Leetocode-problems/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1524-string-matching-in-an-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1777-determine-if-two-strings-are-close](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1777-determine-if-two-strings-are-close) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1524-string-matching-in-an-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/sandy1in/Leetocode-problems/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/sandy1in/Leetocode-problems-75/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Counting
 |  |
