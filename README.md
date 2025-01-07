@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0053-maximum-subarray) |
+| [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0435-non-overlapping-intervals](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0435-non-overlapping-intervals) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0954-maximum-sum-circular-subarray](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0954-maximum-sum-circular-subarray) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0002-add-two-numbers) |
+| [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0171-excel-sheet-column-number](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0171-excel-sheet-column-number) |
 | [2716-prime-subtraction-operation](https://github.com/sandy1in/Leetocode-problems-75/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/sandy1in/Leetocode-problems-75/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0101-symmetric-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0199-binary-tree-right-side-view) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0096-unique-binary-search-trees) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sandy1in/Leetocode-problems-75/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Indexed Tree
 |  |
